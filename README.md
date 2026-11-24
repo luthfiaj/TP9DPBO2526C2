@@ -510,16 +510,6 @@ Bagian ini dapat dilengkapi dengan screenshot hasil pengujian dari browser. Scre
 5. Implementasi yang ditampilkan belum menggunakan CSRF token pada form POST.
 6. Penanganan error dan validasi input masih dapat dikembangkan lebih lanjut.
 
-### 6.3 Hal yang Perlu Diperhatikan
-
-- Kedua modul menggunakan database `mvp_kandidat_db` dan koneksi database dari `DB.php` yang sama.
-- Jangan membuat file `DB.php` kedua untuk modul Departemen.
-- `index.php` tetap menjadi entry point Kandidat, sedangkan `departemen.php` menjadi entry point Departemen.
-- Setiap modul memiliki contract sendiri agar tidak terjadi benturan nama interface.
-- Pengolahan koleksi data dilakukan di Presenter, bukan di View.
-- View hanya menerima data yang sudah disiapkan Presenter dan menghasilkan HTML.
-- Jika struktur folder atau nama database diubah, sesuaikan path `require_once` dan konfigurasi koneksi yang terkait.
-
 ---
 
 **Akhir dokumentasi.**
