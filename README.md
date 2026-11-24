@@ -1,9 +1,6 @@
-# MVP Rekrutmen Karyawan
+# TP9DPBO2526C2 MVP Rekrutmen Karyawan
 
-**Nama:** Luthfi Aulia Jodi  
-**NIM:** 2521743  
-**Proyek:** Implementasi Model–View–Presenter (MVP) menggunakan PHP dan MySQL
-
+Saya **Luthfi Aulia Jodi** dengan NIM **2521743** mengerjakan Tugas Praktikum 1 dalam mata kuliah Desain Pemrograman Berbasis Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang dispesifikasikan. Aamiin.
 ## Deskripsi Program
 
 Program ini merupakan aplikasi sederhana untuk mengelola data rekrutmen karyawan menggunakan bahasa pemrograman PHP, database MySQL, dan arsitektur **Model–View–Presenter (MVP)**.
