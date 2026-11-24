@@ -1,4 +1,4 @@
-# TP9DPBO2526C2 MVP Rekrutmen Karyawan
+# TP9DPBO2526C2 - MVP Rekrutmen Karyawan
 
 Saya **Luthfi Aulia Jodi** dengan NIM **2521743** mengerjakan Tugas Praktikum 1 dalam mata kuliah Desain Pemrograman Berbasis Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang dispesifikasikan. Aamiin.
 ## Deskripsi Program
