@@ -511,5 +511,3 @@ Bagian ini dapat dilengkapi dengan screenshot hasil pengujian dari browser. Scre
 6. Penanganan error dan validasi input masih dapat dikembangkan lebih lanjut.
 
 ---
-
-**Akhir dokumentasi.**
