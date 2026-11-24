@@ -38,34 +38,42 @@ Penerapan MVP mengikuti prinsip **Strict Passive View**. View hanya bertugas men
 Struktur folder setelah modul Departemen digabungkan dengan starter project Kandidat:
 
 ```text
-MVP-KANDIDAT/
-├── models/
-│   ├── DB.php
-│   ├── Kandidat.php
-│   ├── KontrakModel.php
-│   ├── TabelKandidat.php
-│   ├── Departemen.php
-│   ├── KontrakModelDepartemen.php
-│   └── TabelDepartemen.php
-│
-├── presenters/
-│   ├── KontrakPresenter.php
-│   ├── PresenterKandidat.php
-│   ├── KontrakPresenterDepartemen.php
-│   └── PresenterDepartemen.php
-│
-├── views/
-│   ├── KontrakView.php
-│   ├── ViewKandidat.php
-│   ├── KontrakViewDepartemen.php
-│   └── ViewDepartemen.php
-│
-├── template/
-│   ├── skin.html
-│   └── form.html
+TP9DPBO2526C2/
+├── project/
+│   ├── models/
+│   │   ├── DB.php
+│   │   ├── Kandidat.php
+│   │   ├── KontrakModel.php
+│   │   ├── TabelKandidat.php
+│   │   ├── Departemen.php
+│   │   ├── KontrakModelDepartemen.php
+│   │   └── TabelDepartemen.php
+│   │
+│   ├── presenters/
+│   │   ├── KontrakPresenter.php
+│   │   ├── PresenterKandidat.php
+│   │   ├── KontrakPresenterDepartemen.php
+│   │   └── PresenterDepartemen.php
+│   │
+│   ├── views/
+│   │   ├── KontrakView.php
+│   │   ├── ViewKandidat.php
+│   │   ├── KontrakViewDepartemen.php
+│   │   └── ViewDepartemen.php
+│   │
+│   ├── template/
+│   │   ├── skin.html
+│   │   └── form.html
+│   │
+│   │
+│   ├── index.php
+│   └── departemen.php
 │
 ├── index.php
 ├── departemen.php
+├── dokumentasi/
+├── mvp_db.sql
+│   └── DEMO_PENURUNAN_PRABOWO_FULLPERCAKAPAN
 └── README.md
 ```
 
